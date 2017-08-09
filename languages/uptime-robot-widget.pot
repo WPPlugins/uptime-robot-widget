@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Uptime Robot Widget\n"
+"POT-Creation-Date: 2016-11-18 18:39+0100\n"
+"PO-Revision-Date: 2016-11-18 18:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:37 includes/admin.php:96
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:46 includes/admin.php:192
+msgid "Uptime Robot Widget"
+msgstr ""
+
+#: includes/admin.php:105
+msgid "Rate plugin"
+msgstr ""
+
+#: includes/admin.php:114
+msgid "Donations"
+msgstr ""
+
+#: includes/admin.php:132
+msgid "API settings"
+msgstr ""
+
+#: includes/admin.php:135
+msgid "API key"
+msgstr ""
+
+#: includes/admin.php:136
+#, php-format
+msgid ""
+"To get your API key visit <a target=\"_blank\" href=\"%s\">Uptime Robot "
+"webpage</a>."
+msgstr ""
+
+#: includes/admin.php:141
+msgid "Advanced"
+msgstr ""
+
+#: includes/admin.php:144
+msgid "Uptime ratio in a custom period"
+msgstr ""
+
+#: includes/admin.php:144
+msgid "days"
+msgstr ""
+
+#: includes/admin.php:145
+msgid ""
+"Shows uptime ratio in a custom period instead of the whole period. Leave "
+"field empty if disabled."
+msgstr ""
+
+#: includes/admin.php:148
+msgid "Connection timeout with API"
+msgstr ""
+
+#: includes/admin.php:151
+msgid "Connection retry limit with API"
+msgstr ""
+
+#: includes/admin.php:156
+msgid "Others"
+msgstr ""
+
+#: includes/admin.php:159
+msgid "Show link to the public status page"
+msgstr ""
+
+#: includes/admin.php:160
+msgid "Page URL"
+msgstr ""
+
+#: includes/admin.php:166
+msgid "Save settings"
+msgstr ""
+
+#: includes/admin.php:176
+msgid "If you like this plugin, please give it a nice review"
+msgstr ""
+
+#: includes/admin.php:181
+msgid ""
+"If you like this plugin, please send a donation to support its development "
+"and maintenance"
+msgstr ""
+
+#: includes/widget.php:25
+msgid "paused"
+msgstr ""
+
+#: includes/widget.php:28
+msgid "n/d"
+msgstr ""
+
+#: includes/widget.php:31
+msgid "up"
+msgstr ""
+
+#: includes/widget.php:34
+msgid "seems down"
+msgstr ""
+
+#: includes/widget.php:37
+msgid "down"
+msgstr ""
+
+#: includes/widget.php:40
+msgid "unk"
+msgstr ""
+
+#: includes/widget.php:48 includes/widget.php:141
+msgid ""
+"Oops! Something went wrong and failed to get the status, check again soon."
+msgstr ""
+
+#: includes/widget.php:86
+msgid "More details on status page"
+msgstr ""
+
+#: includes/widget.php:123
+msgid "Status of the monitored services in the Uptime Robot service."
+msgstr ""
+
+#: includes/widget.php:152
+msgid "Loading"
+msgstr ""
+
+#: includes/widget.php:167
+msgid "Title"
+msgstr ""
+
+#: includes/widget.php:171
+#, php-format
+msgid "Please enter API key in <a href=\"%s\">plugin settings</a>."
+msgstr ""
